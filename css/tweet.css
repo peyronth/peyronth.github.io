@@ -20,7 +20,8 @@
 .tweet {
     margin: 0 2%;
     padding: 10px;
-    border-top: grey solid 1.3px;
+    border-top: grey solid .3px;
+    border-bottom: grey solid .2px;
     border-left: grey solid .7px;
     border-right: grey solid .7px;
 }
